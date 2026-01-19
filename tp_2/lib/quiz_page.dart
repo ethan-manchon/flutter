@@ -65,7 +65,7 @@ class _QuizPageState extends State<QuizPage> {
   int selectedAnswerIndex = -1;
   int maxQuestions = questions.length;
   
-  static const int maxTime = 100; 
+  static const int maxTime = 20; 
   int timeRemaining = maxTime;
   Timer? _timer;
 
