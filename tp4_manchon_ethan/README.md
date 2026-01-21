@@ -15,3 +15,23 @@ Combiner plusieurs appels API (liste + détails)
 ![TP 4 screen 4](./screen4.jpg)
 
 Développement d'un site filmographique, avec les 7 étapes, tests incluts, ajout d'une SnackBar quand on ajoute ou retire un film des favoris et ajout d'une page pour voir le trailer du film. 
+
+---
+
+## 🚀 Comment lancer le TP4
+
+1. Installez les dépendances :
+   ```bash
+   flutter pub get
+   ```
+2. Lancez l'application :
+   ```bash
+   flutter run
+   ```
+3. Pour les tests :
+   ```bash
+   flutter test
+   ```
+
+Assurez-vous d'avoir Flutter installé et configuré sur votre machine.
+
